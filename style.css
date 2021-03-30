@@ -1,0 +1,9 @@
+body{
+    direction: rtl;
+    font-family: vazir;
+    text-align: right;
+    font-weight: 300;
+}
+.card-body .card-header{
+    font-weight: 500;
+}
